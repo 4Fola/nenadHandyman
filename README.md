@@ -6,3 +6,6 @@ I: Simple parallax UI
   
 II: Parallax UI 2, full CSS
 <p> <img src='Nenad2.gif' title='Template2' width='' alt='Tamplate-II' />
+
+III: Parallax UI III, full CSS
+<p> <img src='Nenad3.gif' title='Template3' width='' alt='Tamplate-III' />
